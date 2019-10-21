@@ -149,6 +149,12 @@
    countries: uk, gb, de, fr, es, nl
    logo: coincorner-icon.png
    url: https://www.coincorner.com/
+   
+ - exchange: Cryptomate
+   description: An exchange for British users that allows fast, hassle-free purchase of Bitcoin and other cryptocurrencies with UK instant bank transfer.
+   countries: uk, gb
+   logo: cryptomate.png
+   url: https://cryptomate.co.uk/
 
 ############## Canada ##############
 
