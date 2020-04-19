@@ -21,12 +21,69 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
 ---
 
 <p><h2 id="what">What Is MWC?</h2>
+<p><center><img src="/images/mwc-ghost-money-728-90.png" alt="MWC - Ghost Money"/></center>
 <p>MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and untraceable digital currency that implements Mimble Wimble via open-source software and freely available to all. The <a href="https://www.mwcprice.com/">MWC price</a> is volatile.
 <p>Mimble Wimble is a superior blockchain technology and provides an excellent framework that has superior scalability, privacy and fungibility.
 <p>In contrast, in Section 10 of the <a href="https://www.bitcoin.org/bitcoin.pdf">Bitcoin whitepaper</a>, Satoshi Nakamoto acknowledged the lack of privacy in Bitcoin and as a remedy suggested a solution "by keeping public keys anonymous.".
 <p>It is possible, although extremely unlikely, to implement Mimble Wimble in Bitcoin with a hard fork. To reach its full potential, Mimble Wimble is best deployed in the base layer of a protocol.
 <p>Thus, MWC, or Mimble Wimble Coin, applies Mimble Wimble in the base layer and is a scarce, secure, scalable, private, fungible and untraceable digital currency released via open-source software and freely available to all.
 <p><center><iframe width="560" height="315" src="https://www.youtube.com/embed/aHTRlbCaUyM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+<p>What makes <a href="https://www.mwc.mw/good-money">good money</a> in the Information Age? The quality of a monetary product is primarily attributable to it being (1) recognizable, (2) scarce, (3) censorship resistant, (4) durable & indestructible, (5) extensible, (6) salable, (7) portable, (8) fungible, (9) private and (10) divisible.
+
+<p>The greatest disruptive innovation in monetary history was published on October 31, 2008 by the pseudonymous Satoshi Nakamoto titled <a href="https://bitcoin.org/bitcoin.pdf">Bitcoin: A Peer-to-Peer Electronic Cash System</a> which outlined a tamper-proof, decentralized peer-to-peer protocol that could track and verify digital transactions, prevent double-spending and generate a transparent record for anyone to inspect in nearly real-time.
+
+<p>As shown with Bitcoin over the past decade the market takes a monetary product as it currently is along with speculation of what it may become instead of what it was.
+
+<p>It took approximately eight years before a similar disruptive monetary innovation was published when the pseudonymous Tom Elvis Jedusor placed the original <a href="https://github.com/mimblewimble/docs/wiki/MimbleWimble-Origin">MimbleWimble white paper</a> on a Bitcoin research channel and then disappeared.
+
+<p>In the 49 page formal math proof published in 2018 titled <a href="https://eprint.iacr.org/2018/1039.pdf">Aggregate Cash System: A Cryptographic Investigation of Mimblewimble</a>, Fuchsbauer, et. al. concluded, "In this paper, we provide a provable-security analysis for Mimblewimble. We give a precise syntax and formal security definitions for an abstraction of Mimblewimble that we call an aggregate cash system. We then formally prove the security of Mimblewimble in this definitional framework. Our results imply in particular that two natural instantiations (with Pedersen commitments and Schnorr or BLS signatures) are provably secure against inflation and coin theft under standard assumptions."
+
+<p>A Mimblewimble based coin enables greater network scalability, privacy and fungibility than legacy blockchain protocols. All transactions on the base layer use CoinJoin with Confidential Transactions and signature aggregation. Whale alerts are not even possible with extremely scalable ghost money. But as with everything there are trade-offs in fundamental characteristics that each monetary product must make.
+
+<p>In a <a href="http://diyhpl.us/wiki/transcripts/mimblewimble-podcast/">2016 podcast</a> Bitcoin core developer Peter Wuille stated,
+
+<p>"Introducing Mimblewimble into Bitcoin in a backwards-compatible way would be a difficult exercise. It may not be impossible, but it would be hard. I think the way if people were experimenting with this, I would expect it to be an experimental separate chain or sidechain. In a sidechain we would not introduce a new cryptocurrency but it would be a separate chain. There are some downsides to Mimblewimble. In particular, it does not have a scripting language...a scripting language is very neat to play with, but it has a privacy downside. Mimblewimble takes this to the other side where you have very good privacy but at the expense of no other features any more."
+
+<p>Fortunately, there has been significant research done since then and with Mimblewimble these types of scripts and applications are possible: Multi-Signature transactions, time locks, atomic swaps, and hashed time-locked contracts which are the building block of payment channels and Lightning Network.
+
+<p>In January 2019 GRIN and BEAM both launched to extreme anticipation as Mimblewimble base layer coins. However, both have extremely low stock to flow ratios and GRIN does not have a supply cap.
+
+<p>On January 18. 2019, before GRIN launched a developer opened an <a href="https://github.com/mimblewimble/grin/issues/2423">issue on Github</a> about GRIN’s emission rate and supply cap but was summarily dismissed. Because of GRIN’s lack of interest in a supply cap the developer interpreted that as a green light to experiment with a sounder monetary policy.
+
+<p>In February 2019 MWC was announced as a fork of GRIN. The initial stock of both BEAM and GRIN were created by mining which was highly inflationary. For software development funding, GRIN relies on donations and BEAM allocates part of the block reward to a foundation.
+
+<p>In October 2019 a <a href="https://www.mwc.mw/mimble-wimble-coin-articles/update-on-atomic-swap-progress">Bitcoin and MWC atomic swap</a> was completed on testnet.
+
+<p>In November 2019 MWC mainnet launched as an experimental separate chain and has functioned flawlessly according to the consensus rules ever since. The <a href="https://github.com/mwcproject/mwc-node/blob/master/core/src/consensus.rs">consensus rules</a> provide for a total of 20,000,000 MWC. 10,000,000 will be proof of work mined and the initial stock of 10,000,000 were created in the genesis block.
+
+<p>The MWC initial stock was distributed differently than either GRIN or BEAM by using these three ways: (1) 2,000,000 to the developers for software development work immediately after the genesis block was mined; (2) 6,000,000 about a month after mainnet launched via an <a href="https://www.mwc.mw/airdrop-info">airdrop program</a> that has primarily gone to the most grizzled and sophisticated veterans in the crypto-industry: Bitcoin holders who registered with more than 148,000 BTC at the bottom of the bear market between April and July 2019. Some were unclaimed and will either be burned, airdropped or added to the HODL program; and (3) 2,000,000 will be distributed over the infancy years of the project via a <a href="https://www.mwc.mw/hodl">HODL program</a> to those who continue to hold MWC. Registration is functional and over 6.7m of 8m MWC are registered. Registered MWC are still fully liquid and can be moved at the user’s discretion.
+
+<p>The MWC developers have stated in the <a href="https://github.com/mwcproject/mwc-node/blob/master/doc/roadmap.md">Roadmap</a>, “There are many potential places development resources can be allocated and they will be chosen based on market needs with highest priority given to requests that will primarily benefit and come from the buyers and hodlers of last resort.”
+
+<p>Just because a new monetary product is created does not mean that the market ascribes it any value. Such was the case from January 3, 2009 to January 2011 where Bitcoin traded at less than $0.25.
+
+<p>And such was the case on December 2, 2019 when the MWC airdrop began to be distributed. On December 3rd MWC hit an all-time low of about $0.25 or a market cap of less than $2m.
+
+<p>Bitcoin has clawed its market cap from nothing. Likewise, MWC was nearly worthless, nevertheless, a heartbeat was detected and the speculation network effect started. Some people have started to acquire and hold MWC just in case it might catch on. It seems that fundamentally good products always do eventually.
+
+<p>The MWC difficulty algorithm is based on pure proof of work. Inherited from GRIN was the use of C29 and C31 and, in the future, C32 and C33. Under the consensus rules C29 is scheduled to phase out around November 2019 at a rate of 1% per week. Pure proof of work, which the MWC team considers a superior form of security compared to alternatives like proof of stake, requires a tradeoff between emission rate and security.
+
+<p>As MWC’s price began firming the decision was made unanimously by all interested stakeholders to hard fork MWC, remove the C32 and C33 parts of the consensus code and rapidly harden the MWC emission rate. This would leave MWC the sole coin on the C31 algorithm.
+
+<p>An algorithm for which there is an ASIC designed but not put into production. On January 17, 2020 <a href="https://www.innosilicon.com/html/news/39.html">Innosilicon announced</a>,
+
+<p>“We are sorry to inform you that our Grin product G32 GPU ASIC fabrication has not been supported well by the foundry… so we have to put this production on hold till future clearance. Innosilicon invested huge amount of R&D dollars to complete the innovative CC31/CC32 Grin GPU ASIC design to our satisfaction because we believe in Grin and its core team.”
+
+<p>On March 31, 2019 the MWC hard fork went flawlessly and on April 7, 2019 the emission rate decreased by approximately 75%. The stock-to-flow changed from 6.4 to 25.7. By February 2021 the MWC stock-to-flow will be over 62.
+
+<p>Although still in its infancy, MWC has been consistently trading above a $100m market cap with a monthly mining emission around $500,000. By market capitalization, this makes MWC the top-3 privacy coin behind Monero and Zcash and in the top-15 proof of work coins around Ravencoin and Decred. But in nominal numbers MWC is miniscule compared to Bitcoin’s $90m of weekly emissions.
+
+<p>MWC is designed to be extremely complimentary to Bitcoin and atomic swaps will only strengthen that relationship. Bitcoin can function as an extremely effective monetary VPN.
+
+<p>There seems to be significant information asymmetry regarding Mimblewimble and even the existence of <a href="https://www.mwc.mw">MWC</a>. As a result, it will be very interesting to see how the market responds to this six month old monetary product. When performing economic calculation the profits will go to those who calculate correctly and the losses to those who calculate incorrectly. The order book will be the arbiter of opinions.
+
+<p>After all, in an era of pandemic lockdowns, infinite bailouts, rising inflation, draconian wealth taxes and other financial, political and geo-political turmoil it just might be that the market is interested in a monetary product that delivers on being extremely scarce scalable ghost money.
 
 
   {% include page-toc.html %}
