@@ -6,11 +6,11 @@ author: WeUseCoins
 permalink: /what-is-maker/
 authorurl: /
 published: true
-toc: 
+toc:
   what: What Is Maker?
   getting: Getting Started With Maker
   howto: How To Get A Maker Wallet?
-  resources: Maker Resources 
+  resources: Maker Resources
   buy: How To Buy Maker?
   spend: Where To Spend Maker?
   latest: Latest Maker News
@@ -23,7 +23,7 @@ summary: Maker (MKR) is an Ethereum-based utility and governance token that runs
 
 <p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="maker" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
 
-<p>Maker (MKR) is an <a href="/what-is-ethereum/">Ethereum-based utility and governance token</a> that runs on the Maker smart contract platform. MKR is used to stabilize another cryptocurrency called Dai through “a dynamic system of Collateralized Debt Positions (CDPs), autonomous feedback mechanisms, and appropriately incentivized external actors.” Holders of Maker vote upon adjustments to the platform in order keep Dai pegged to the value of 1 USD, and to keep the system solvent. If the Dai fund cannot remain solvent, new MKR tokens are printed and sold to fund the Dai system.</p>
+<p>Maker (MKR) is an <a href="/what-is-ethereum/">Ethereum-based utility and governance token</a> that runs on the Maker smart contract platform. MKR is used to stabilize another cryptocurrency called Dai through “a dynamic system of Collateralized Debt Positions (CDPs), autonomous feedback mechanisms and appropriately incentivized external actors.” Holders of Maker vote upon adjustments to the platform in order keep Dai pegged to the value of 1 USD, and to keep the system solvent. If the Dai fund cannot remain solvent, new MKR tokens are printed and sold to fund the Dai system.</p>
 
 <p>Through the Maker platform, anyone can leverage Ethereum-based assets to make Dai, letting the system hold them until the debt is paid off in an equal amount of Dai. Another function of Maker is to provide leverage and liquidity for the ERC20 exchange OasisDEX, which sells Maker and Dai among other Ethereum-based tokens. </p>
 
@@ -207,7 +207,7 @@ summary: Maker (MKR) is an Ethereum-based utility and governance token that runs
 
 <p>There’s not much need to address what happens when ether goes up.The system becomes more collateralized and Dai becomes stronger. That’s not to say that Dai can’t become too strong, where there’s more demand for Dai than there is people willing to create it, but Maker has mechanisms that incentivize users to create more Dai if the price of Dai should trade above one dollar (see below: Target Rate Feedback Mechanism).But if ether goes down, now that can cause problems. </p>
 
-<p>If the value of ether held as collateral is worth less than the amount of Dai it’s supposed to be backing, then Dai would not be worth one dollar and the system could collapse. Maker combats this by liquidating CDPs and auctioning off the ether inside before the value of the ether is less than the amount of Dai it is backing.</p> 
+<p>If the value of ether held as collateral is worth less than the amount of Dai it’s supposed to be backing, then Dai would not be worth one dollar and the system could collapse. Maker combats this by liquidating CDPs and auctioning off the ether inside before the value of the ether is less than the amount of Dai it is backing.</p>
 
 <p>Basically, if the price feed into the CDP indicates that the value of ether has gone below a certain threshold (let’s use 125% of created Dai), then the CDP is “liquidated” and the ether inside the CDP is auctioned off for Dai until there is enough Dai to pay back what was extracted from the CDP. Let’s go back to the diagram to see how this works. As before, I’ve simplified some of the steps for the sake of understanding, there are some additional features in the system that prevent various edge-case attacks.</p>
 
@@ -452,6 +452,3 @@ https://forum.makerdao.com/t/maker-meeting-notes-2017-may-28th/845</p>
 <p>The Dai Stablecoin System, with CDP creation at its core, is a completely decentralized infrastructure. Users can interact with the system in numerous ways, without relying on any third party and without any permission. MakerDAO is just an infrastructure provider and we are excited users are finding multiple use cases for our platform.</p>
 
 <p>Users have been creative in their reasons for creating CDPs. We heard interesting and compelling stories about users who took out and paid off car loans, repaid mortgages, paid household allowances, those who borrowed with financial interest and more.</p>
-
-
-
