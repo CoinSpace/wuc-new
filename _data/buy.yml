@@ -303,8 +303,8 @@
  - exchange: HardBlock
    description: No fee and low spread Australian buying and selling service. Buy Bitcoin using POLi. Phone number and ID verification required.
    countries: au
-   logo: hardblock.png
-   url: https://www.hardblock.net/
+   logo: hardblock_favicon.png
+   url: https://www.hardblock.com.au/
 
  - exchange: Independent Reserve
    description: Established in 2013, Independent Reserve is an Australian institutional grade cryptocurrency exchange with an orderbook allowing you to securely trade and invest many cryptocurrencies in AUD, USD, and NZD.
