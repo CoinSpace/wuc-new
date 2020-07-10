@@ -6,11 +6,11 @@ author: WeUseCoins
 authorurl: /
 published: true
 permalink: /what-is-bitconnect/
-toc: 
+toc:
   what: What Is BitConnect?
   getting: Getting Started With BitConnect
   howto: How To Get A BitConnect Wallet?
-  resources: BitConnect Resources 
+  resources: BitConnect Resources
   buy: How To Buy BitConnect?
   earn: How To Earn BitConnect?
   spend: Where To Spend BitConnect?
@@ -18,12 +18,14 @@ toc:
   latest: Latest BitConnect News
 img: bitconnect.png
 category: altcoin
-summary: BitConnect Coin is a decentralized digital currency, an open-source and peer-to-peer protocol that allows people to invest their possession in a non-government related currency and stores it and even earn from these investments.
+summary: BitConnect Coin is a scam.
 ---
 
 <h2 id="what">What Is BitConnect?</h2>
 
 <p><center><script type="text/javascript" src="https://files.coinmarketcap.com/static/widget/currency.js"></script><div class="coinmarketcap-currency-widget" data-currency="bitconnect" data-base="USD" data-secondary="BTC" data-ticker="true" data-rank="true" data-marketcap="true" data-volume="true" data-stats="USD" data-statsticker="false"></div></center></p>
+
+<p>BitConnect is a <a href="https://en.wikipedia.org/wiki/Bitconnect">scam</a>.
 
 <p>BitConnect Coin is a <a href="/video-decentralization-architecture-of-power/">decentralized digital currency</a>, an open-source and <a href="/video-p2p-money-historical-context/">peer-to-peer protocol</a> that allows people to invest their possession in a non-government related currency and stores it and even earn from these investments. Hence, BitConnect helps someone by having investment interest while they also help on the system security. </p>
 
