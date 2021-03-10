@@ -21,7 +21,8 @@ summary: MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and unt
 ---
 
 <p><h2 id="what">What Is MWC?</h2>
-<p><center><img src="/images/mwc-ghost-money-728-90.png" alt="MWC - Ghost Money"/></center>
+<p><center><div class="nomics-ticker-widget" data-name="MimbleWimbleCoin" data-base="MWC" data-quote="USD"></div><script src="https://widget.nomics.com/embed.js"></script></center>
+<p><center><img src="/images/sponsor/mwc-ghost-money-728-90.png" alt="MWC - Ghost Money"/></center>
 <p>MWC, Mimble Wimble Coin, is a scarce, secure, scalable, private and untraceable digital currency that implements Mimble Wimble via open-source software and freely available to all. The <a href="https://www.mwcprice.com/">MWC price</a> is volatile.
 <p>Mimble Wimble is a superior blockchain technology and provides an excellent framework that has superior scalability, privacy and fungibility.
 <p>In contrast, in Section 10 of the <a href="https://www.bitcoin.org/bitcoin.pdf">Bitcoin whitepaper</a>, Satoshi Nakamoto acknowledged the lack of privacy in Bitcoin and as a remedy suggested a solution "by keeping public keys anonymous.".
