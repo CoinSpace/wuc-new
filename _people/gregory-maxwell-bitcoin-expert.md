@@ -1,10 +1,8 @@
 ---
 title: Gregory Maxwell
-seotitle: Gregory Maxwell - CTO, Blockstream
-position: CTO, Blockstream
 education:
 experience:
-short_desc: Gregory Maxwell is a Bitcoin Core developer and Co-Founder and Chief Technology Officer of Blockstream.
+short_desc: Gregory Maxwell is a former Bitcoin Core developer, Co-Founder and former Chief Technology Officer of Blockstream.
 long_desc:
 affiliations: [Blockstream, Bitcoin Core]
 twitter:
@@ -13,15 +11,15 @@ residence:
 img: /images/gregory-maxwell.png
 cats: [bitcoin developer]
 ---
-Gregory Maxwell is a [Bitcoin Core](/bitcoin-core/) developer and Co-Founder and Chief Technology Officer of Blockstream.
+Gregory Maxwell is a former [Bitcoin Core](/bitcoin-core/) developer, Co-Founder and former Chief Technology Officer of Blockstream.
 
 ## Sidechains
 
-Greg was one of the key architects of the two-way peg <a href="/what-are-sidechains/">which makes sidechains possible</a>. He has been a Bitcoin core developer since 2011, and is one of the most active reviewers of cryptographic protocol proposals in the Bitcoin industrial ecosystem.
+Greg was one of the key architects of the two-way peg <a href="/what-are-sidechains/">which makes sidechains possible</a>. He was a Bitcoin core developer from 2011 to 2018, and during that period was one of the most active reviewers of cryptographic protocol proposals in the Bitcoin industrial ecosystem.
 
 ## Confidential Transactions
 
-Maxwell is currently working on [Confidential Transactions](https://people.xiph.org/~greg/confidential_values.txt) for Blockstream. Confidential Transactions will make transaction amounts visible to transaction participants and hide the data from the blockchain.
+Maxwell was the primary contributor to [Confidential Transactions](https://en.bitcoin.it/wiki/Confidential_transactions) for Blockstream. Confidential Transactions will make transaction amounts visible to transaction participants while hiding the data from the blockchain.
 
 ## Bitcoin Development
 
@@ -29,7 +27,7 @@ He has contributed to many widely-used techniques in the Bitcoin space, such as 
 
 ## History
 
-Greg is a long-time free software developer and comes to Blockstream from Mozilla where he contributed to the Daala video compression project and coauthored the Opus audio codec (RFC 6716). He also has over 15 years of experience developing, implementing and operating embedded systems and protocols for large-scale networking.
+Greg is a long-time free software developer. Prior to his involvement with Bitcoin, he worked at Mozilla where he contributed to the Daala video compression project and coauthored the Opus audio codec (RFC 6716). He also has over 15 years of experience developing, implementing and operating embedded systems and protocols for large-scale networking.
 
 For many in the Bitcoin community, Greg is likely the person telling you that your protocol is broken and why, but he usually feels pretty bad about it.
 
