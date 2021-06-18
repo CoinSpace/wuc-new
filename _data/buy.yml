@@ -423,6 +423,11 @@
    url: https://paymium.com/
 
 ############## Africa ##############
+- exchange: Exchangeindeed
+   description: <p>ExchangeIndeed is a reliable, fast and cheap digital currency exchanger since 2009. We buy and sell Bitcoin, Ethereum, Perfect Money, USDT and Payza. We are a digital currency exchanger of repute and we pride ourselves as Nigeria's foremost exchange platform.</p>
+   countries: af
+   logo: 
+   url: https://exchangeindeed.com
 
  - exchange: Atomic Wallet
    description: <p>Atomic Wallet is a popular multicurrency wallet supporting over 300 coins and tokens. The wallet allows you to buy Bitcoin, Ethereum, XRP (Ripple), Litecoin and Bitcoin Cash right in one interface. It’s remarkable that the wallet provides all-in-one solution for every cryptocurrency holder. Atomic Wallet is non-custodial which means that all users’ private keys are encrypted on their devices and can be used anytime. The keys are well-protected with a 12-word seed phrase. The wallet also features the option to use Atomic Swaps, the on-chain technology, for swapping for Bitcoin, Litecoin and QTUM.</p> <p><center><iframe width="700" height="394" src="https://www.youtube.com/embed/V9Igzp9K37k" frameborder="0" allowfullscreen></iframe></center></p>
