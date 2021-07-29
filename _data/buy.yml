@@ -402,6 +402,12 @@
    logo: mercado.png
    url: https://www.mercadobitcoin.com.br/
 
+ - exchange: BitcoinTrade
+   description: "BitcoinTrade is a brazilian exchange that allows you to buy bitcoins and other cryptocurrencies via bank transfer."
+   countries: br
+   logo: bitcointrade.jpg
+   url: https://www.bitcointrade.com.br/pt-BR/
+
 ############## France ##############
 
  - exchange: Atomic Wallet
