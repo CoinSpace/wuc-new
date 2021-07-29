@@ -2,8 +2,8 @@
 layout: post
 title: Looking At Bitcoin Security Models And Use Cases
 description: Looking At Bitcoin Security Models And Use Cases
-author: Matt Corrallo
-authorurl: /matt-corrallo/
+author: Matt Corallo
+authorurl: /matt-corallo/
 published: true
 ---
 
