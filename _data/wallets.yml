@@ -21,6 +21,13 @@
    img: copay
    tags: start, mobile, hybrid
    
+ - wallet: Coin Wallet
+   description: <p>Coin Wallet is a non-custodial multicurrency wallet, where you can easily transfer, receive, buy, sell, and exchange Bitcoin (BTC), Bitcoin Cash (BCH), Ethereum (ETH), Litecoin (LTC), Dogecoin (DOGE), Dash (DASH), Ripple (XRP), Stellar (XLM), EOS, Monero (XMR), Binance Smart Chain (BNB) and over 2000 ERC20, BEP20 tokens.</p><p>Wallet is available as Web Wallet, mobile (iOS & Android), and desktop apps (Windows, Linux & MacOS).</p>
+   category: universal
+   download: https://coin.space
+   img: coinwallet
+   tags: start, mobile, hybrid
+   
 ## Hardware
 
  - wallet: COLDCARD Wallet
